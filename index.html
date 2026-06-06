@@ -2,14 +2,46 @@
 <html>
 <head>
   <meta charset="utf-8"/>
-  <title>Marked in the browser</title>
+  <title>Adversus Haereses Mariologicas</title>
+  <style>
+    #content {
+      max-width: 800px;
+      margin: auto;
+    }
+  </style>
 </head>
 <body>
   <div id="content"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+
   <script>
-    document.getElementById('content').innerHTML =
-      marked.parse('# Marked in the browser\n\nRendered by **marked**.');
+      function setText(md){
+          var request = new XMLHttpRequest();
+          var url = "docs/md/" + md;
+
+          request.open('GET', url, true);
+          request.send(false)
+          request.onreadystatechange = function () {
+              if (request.readyState === 4 && request.status === 200) {
+                  var type = request.getResponseHeader('Content-Type');
+                  if (type.indexOf("text") !== 1) {
+                      var md_text = request.responseText;
+                      document.getElementById('content').innerHTML =
+                          marked.parse(md_text);
+                  }
+	      }
+              if (request.readyState === 4 && request.status === 404) {
+	          document.getElementById('content').innerHTML =
+	              marked.parse("# Error\nNo se pudo encontrar el documento solicitado");
+	      }
+          }
+      }
+      var params = new URLSearchParams(document.location.search);
+      var md = params.get('md');
+      if(!md) {
+          md = 'default.md';
+      }
+      setText(md);
   </script>
 </body>
 </html>
