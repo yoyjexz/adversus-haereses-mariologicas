@@ -1,6 +1,6 @@
 # Abjuración de la Señora de todos los pueblos
 
-Yo, *\[nombre\]*, abjuro del demonio que se hizo pasar por la Virgen en las falsas mariofanías de la  «Señora de todos los pueblos», y condeno sus mensajes por las múltiples herejías contenidas en ellos. A saber:
+Yo, *\[nombre\]*, abjuro de creer en las falsas mariofanías de la «Señora de todos los pueblos», reconociendo que fue el demonio el que se hizo pasar por la Virgen, y repruebo sus mensajes por las múltiples herejías contenidas en ellos. A saber:
 
 1. Modalismo, por confundir las personas de la Santísima Trinidad, afirmando que son una única persona.
 
