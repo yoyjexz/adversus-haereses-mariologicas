@@ -20,7 +20,7 @@ Yo, *\[nombre\]*, abjuro del demonio que se hizo pasar por la Virgen en las fals
 
 9. Confusión de personas, aplicado a la Esposa de Cristo, entre María y la Iglesia Católica.
 
-Asimismo, repruebo cualquier uso de expresiones como “el tiempo apremia”, “este tiempo es nuestro tiempo”, “el Padre y el Hijo quiere”, “es necesario evitar una gran calamidad” y “cuidado con los falsos profetas”, muy frecuentemente utilizados en estos mensajes para tentar a la Iglesia a renunciar a la santa virtud cardinal de la prudencia y exigir una aprobación dogmática urgente sin una causa justificada.
+Asimismo, repruebo cualquier uso de expresiones como «el tiempo apremia», «este tiempo es nuestro tiempo», «el Padre y el Hijo quiere», «es necesario evitar una gran calamidad» y «cuidado con los falsos profetas», muy frecuentemente utilizados en estos mensajes para tentar a la Iglesia a renunciar a la santa virtud cardinal de la prudencia y exigir una aprobación dogmática urgente sin una causa justificada.
 
 Rechazo la veracidad de estas apariciones con las siguientes certezas:
 
@@ -84,7 +84,7 @@ Asimismo, rechazo darle validez a una orden divina de aprobación dogmática dad
 
 7. A pesar de lo ya dicho, niego la solución sugerida por el falso diagnóstico de la actual crisis de la Iglesia, que es la falta de fe. Si los católicos no tienen fe en los antiguos dogmas, no se puede esperar que la sostengan ante la aprobación de nuevos dogmas.
 
-8. Por eso, adopto una postura a favor de la recuperación de la «profesión de fe tridentina», el «juramento antimodernista» y el «símbolo atanasiano» como métodos más seguros y efectivos, así como la abolición del Concilio Vaticano II ―concilio pastoral que no aprobó nuevos dogmas― por sus ambigüedades doctrinales y sus demostrables terribles frutos espirituales para la Iglesia.
+8. Por eso, adopto una postura a favor de la recuperación de la «profesión de fe tridentina», el «juramento antimodernista» y el «símbolo atanasiano» como métodos más seguros y efectivos, así como la abolición del Concilio Vaticano II ―concilio pastoral que no aprobó nuevos dogmas― por sus ambigüedades doctrinales y sus terribles frutos espirituales, totalmente demostrables, para la Iglesia.
 
 Del mismo modo, rechazo cualquier acto de devoción pública de esta advocación por el riesgo de infestación diabólica:
 
@@ -106,13 +106,13 @@ Luego de lo ya dicho, afirmo lo siguiente:
 
 1. Primero, que la Iglesia tiene el deber de guardar el depósito de la fe intacto, tal y como lo recibió de los apóstoles por medio de la revelación pública, pero no tiene la obligación de ocuparse de la revelación privada, la cual nunca podrá añadir ni quitar nada a la revelación pública ―clausurada tras la muerte del último apostol, San Juan Evangelista―.
 
-2. Segundo, que la declaración «*constat de supernaturalitate*» no puede, bajo ningún concepto, entenderse como una orden dada por la autoridad de la Iglesia para creer en la autenticidad de una revelación privada, pues esta declaración nunca se efectúa *ex cathedra* y está sujeta a modificaciones posteriores y, por lo tanto, es falible.
+2. Segundo, que la declaración *«constat de supernaturalitate»* no puede, bajo ningún concepto, entenderse como una orden dada por la autoridad de la Iglesia para creer en la autenticidad de una revelación privada, pues esta declaración nunca se efectúa *ex cathedra* y está sujeta a modificaciones posteriores y, por lo tanto, es falible.
 
-3. Tercero, que los dogmas aprobados por la Iglesia Católica son infalibles ―según el dogma de infalibilidad papal― de tal forma que, toda posible afirmación herética que niegue la veracidad de cualesquiera de los dogmas es infaliblemente falsa.
+3. Tercero, que los dogmas proclamados por la Iglesia Católica son infalibles ―según el dogma de infalibilidad papal― de tal forma que, toda posible afirmación herética que niegue cualesquiera de los dogmas es infaliblemente falsa.
 
 4. Cuarto, que, por consiguiente, unos mensajes atribuidos a la Virgen por medio de unas apariciones, ante la presencia de una sola herejía ―siendo que la Virgen es impecable―, pasan automáticamente a ser considerados falsos de manera infalible, condenándose a sí mismos e invalidando cualquier intento posterior de ratificar su veracidad por medio de supuestos milagros y profecías que den testimonio de su orígen sobrenatural.
 
-5. Quinto, que cualquier revelación privada posterior que pretenda dar testimonio de la veracidad de estos mensajes también se condena a sí misma irremediable e infaliblemente.
+5. Quinto, que cualquier aparición, mensaje o revelación privada posterior que pretenda dar testimonio de la veracidad de estos mensajes ―como por ejemplo, las apariciones de Akita― también se condena a sí mismo irremediable e infaliblemente.
 
 6. Sexto, que atribuirle implícitamente a la Virgen el título de «hereje» o hacerla cómplice de estas herejías es blasfemar contra ella, siendo que a María se la reconoce con el título de «destructora de todas las herejías», y que Ella misma enseño a Santo Domingo de Guzmán que el rezo del Rosario es un remedio eficaz contra las herejías.
 
@@ -134,7 +134,7 @@ Por todos estos motivos, pido lo siguiente:
 
 8. Que todas las apariciones posteriores que sugieran o insinúen que existe algo de auténtico o de veraz en estos mensajes sean también inmediata e irremediablemente condenadas por la Iglesia, sepultadas y borradas de la historia.
 
-Yo, *\[nombre\]*, declaro que esta es mi postura inamovible con respecto a estas falsas mariofanías. Me comprometo a hacer actos de reparación y a combatir férreamente su promoción, reproducción, difusión y cualquier insinuación de su veracidad, sea entera o parcialmente.
+Yo, *\[nombre\]*, declaro que esta es mi postura inamovible con respecto a estas falsas mariofanías. Me comprometo a hacer actos de reparación y a combatir férreamente su promoción, reproducción, difusión y cualquier insinuación de su veracidad, sea entera o parcialmente; así como a prevenir a otros de caer en el error y en el engaño, corrigiéndoles e instruyéndoles adecuadamente.
 
 Santa María, destructora de todas las herejías, ruega por nosotros. Que por los méritos del Sagrado Corazón de Jesús y del Inmaculado Corazón de María seamos preservados del error y de todas las herejías contenidas en estas abominables apariciones.
 
