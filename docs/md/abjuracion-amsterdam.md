@@ -114,7 +114,7 @@ Luego de lo ya dicho, afirmo lo siguiente:
 
 5. Quinto, que cualquier aparición, mensaje o revelación privada posterior que pretenda dar testimonio de la veracidad de estos mensajes ―como por ejemplo, las apariciones de Akita― también se condena a sí mismo irremediable e infaliblemente.
 
-6. Sexto, que atribuirle implícitamente a la Virgen el título de «hereje» o hacerla cómplice de estas herejías es blasfemar contra ella, siendo que a María se la reconoce con el título de «destructora de todas las herejías», y que Ella misma enseño a Santo Domingo de Guzmán que el rezo del Rosario es un remedio eficaz contra las herejías.
+6. Sexto, que atribuirle implícitamente a la Virgen el título de «hereje» o hacerla cómplice de estas herejías es blasfemar contra ella, siendo que a María se la reconoce con el título de «destructora de todas las herejías», y que Ella misma le enseñó a Santo Domingo de Guzmán que el rezo del Rosario es un remedio eficaz contra las herejías.
 
 Por todos estos motivos, pido lo siguiente:
 
