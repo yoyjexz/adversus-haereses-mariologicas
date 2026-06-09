@@ -26,7 +26,7 @@ Rechazo la veracidad de estas apariciones con las siguientes certezas:
 
 1. Que María no es una hereje, pues ella no puede pecar por haber alcanzado la visión beatífica de Dios; o si lo fuera, tendríamos la certeza de que Dios la habría condenado irremediablemente al infierno por pecado de rebelión y su destino actualmente sería semejante al de Lucifer.
 
-2. Que afirmar que alguna de las herejías contenidas en este mensaje no son realmente herejías, tendría las siguientes consecuencias para nuestra fe:
+2. Que afirmar que algunas de las herejías contenidas en este mensaje no son realmente herejías, tendría las siguientes consecuencias para nuestra fe:
 
    1. Que el Magisterio de la Iglesia estaría errado y el Espíritu Santo no lo habría inspirado.
 
@@ -34,7 +34,7 @@ Rechazo la veracidad de estas apariciones con las siguientes certezas:
 
    3. Que todos los santos y mártires que sufrieron persecución y que derramaron su sangre defendiendo el depósito de la fe, lo hicieron en vano, y tampoco podríamos afirmar que estén ahora en el cielo junto a Dios.
 
-   4. Que Dios no sería santo, sino que, siendo pecador, sería un demonio; que el cielo que Él gobierna ya no sería cielo, sino infierno; y que en el día del juicio, no habría diferencia alguna entre condenarse al infierno gobernado por Dios y condenarse al infierno gobernado por Satanás.
+   4. Que Jesús no sería Hijo de Dios, por ser Él pecador; o peor aún, que Dios no sería santo, sino que, siendo pecador, sería un demonio; que el cielo que Él gobierna ya no sería cielo, sino infierno; y que en el día del juicio, no habría diferencia alguna entre condenarse al infierno gobernado por Dios y condenarse al infierno gobernado por Satanás.
 
    5. Que vana sería nuestra fe y todo esfuerzo de santificación personal.
 
