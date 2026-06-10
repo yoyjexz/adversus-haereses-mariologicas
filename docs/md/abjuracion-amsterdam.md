@@ -119,7 +119,7 @@ Luego de lo ya dicho, afirmo lo siguiente:
 
 4. Cuarto, que, por consiguiente, unos mensajes atribuidos a la Virgen por medio de unas apariciones, ante la presencia de una sola herejía ―siendo que la Virgen es impecable―, pasan automáticamente a ser considerados falsos de manera infalible, condenándose a sí mismos e invalidando cualquier intento posterior de ratificar su veracidad por medio de supuestos milagros y profecías que den testimonio de su orígen sobrenatural.
 
-5. Quinto, que cualquier aparición, mensaje o revelación privada posterior que pretenda dar testimonio de la veracidad de estos mensajes ―como por ejemplo, las apariciones de Akita― también se condena a sí mismo irremediable e infaliblemente.
+5. Quinto, que cualquier aparición, mensaje o revelación privada posterior que pretenda dar testimonio de la veracidad de estos mensajes ―como por ejemplo, las apariciones de Akita, por medio de la talla de madera inspirada en el cuadro de la Señora de todos los pueblos― también se condena a sí mismo irremediable e infaliblemente.
 
 6. Sexto, que atribuirle implícitamente a la Virgen el título de «hereje» o hacerla cómplice de estas herejías es blasfemar contra ella, siendo que a María se la reconoce con el título de «destructora de todas las herejías», y que Ella misma le enseñó a Santo Domingo de Guzmán que el rezo del Rosario es un remedio eficaz contra las herejías.
 
