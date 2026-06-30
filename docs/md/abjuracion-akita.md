@@ -1,3 +1,5 @@
+# Abjuración de la Señora de Akita
+
 Yo, *\[nombre\]*, abjuro de creer en las falsas mariofanías de la señora de Akita, reconociendo que fue el demonio el que se hizo pasar por la Virgen, y repruebo sus mensajes por manipular las palabras de la Virgen en Fátima y usarlas a su propia conveniencia:
 
 1. Primero, por haber utilizado una talla de madera inspirada en el cuadro de la «Señora de todos los pueblos» para aparecerse, insinuando que hay algo de verdadero en esas falsas apariciones.
