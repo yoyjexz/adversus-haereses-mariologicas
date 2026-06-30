@@ -16,7 +16,7 @@ Yo, *\[nombre\]*, abjuro de creer en las falsas mariofanías de la señora de Ak
 
 7. Séptimo, por haber escogido un país profundamente secularizado y pobremente evangelizado para aparecerse —como lo es Japón—, y que cree abiertamente en herejías como el preexistencialismo, la reencarnación y la transmigración de las almas, pretendiendo buscar validación a las abominables palabras de la oración dictada en las apariciones de Ámsterdam: «que la Señora de todos los pueblos, *que un día era María*».
 
-8. Octavo, por haber transformado el rostro de la talla de madera, modificando sus rasgos faciales respecto a los originalmente esculpidos, incitando a los fieles a buscar a una persona en particular, insinuando que María debe reencarnarse en una mujer japonesa —posteriormente identificada con la cantautora japonesa, Akiko Yoshida, de nombre artístico KOKIA—.
+8. Octavo, por haber transformado el rostro de la talla de madera, modificando sus rasgos faciales respecto a los originalmente esculpidos, incitando a los fieles a buscar a una persona en particular, insinuando que María debe reencarnarse en una mujer japonesa —posteriormente identificada con una cantautora japonesa, cuya identidad mantendré en anonimato—.
 
 Afirmo que la falsedad de las apariciones se puede demostrar infaliblemente:
 
@@ -272,7 +272,7 @@ Luego de lo ya dicho, pido lo siguiente:
 
 5. Que la autoridad competente emita un nuevo decreto, siguiendo el conocimiento demonológico de reputados exorcistas: *«constat de preternaturalitate»*; el cual, de manera más grave que *«constat de non supernaturalitate»*, condene fuertemente unas apariciones por la actividad demoníaca demostrada y el peligro que entraña que los ﬁeles, practicando su devoción a la Virgen por medio de esta advocación, puedan sufrir actividad demoníaca, requiriendo irremediablemente la acción de un exorcista.
 
-6. Que la cantautora japonesa KOKIA y su hijo Leonardo cuenten siempre y en todo momento con la asistencia espiritual de la Iglesia para acompañarlos y dirigirlos en el discernimiento espiritual de sus pensamientos, obras y acciones; y con la ayuda exorcística necesaria para lidiar con cualquier actividad demoníaca producto de estas dos apariciones.
+6. Que dicha cantautora y su hijo cuenten siempre y en todo momento con la asistencia espiritual de la Iglesia para acompañarlos y dirigirlos en el discernimiento espiritual de sus pensamientos, obras y acciones; y con la ayuda exorcística necesaria para lidiar con cualquier actividad demoníaca producto de estas dos apariciones.
 
 7. Que todos los ﬁeles que hayan practicado su devoción a esta advocación mariana queden liberados de toda inﬂuencia maligna producto de ella.
 
