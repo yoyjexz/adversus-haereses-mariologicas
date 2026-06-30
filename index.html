@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
+
   <head>
+
     <meta charset="utf-8">
-    <script ></script>
+    <title>Adversus Haereses Mariologicas</title>
+
     <style>
       header {
         text-align: center;
@@ -11,41 +14,99 @@
         max-width: 800px;
         margin: auto;
       }
+      #content {
+	margin-left: 20px;
+        margin-right: 20px;
+      }
       footer {
         text-align: center;
       }
     </style>
 
   </head>
+
   <body>
+
     <header>
       <h1 style="margin-top: 0px; margin-bottom: 0px;">
         Adversus Haereses Mariologicas
       </h1>
       <span>Contra las herejías antimarianas de nuestros tiempos</span>
-
     </header>
+
     <main>
       <hr />
-      <div id="content">
-
-      </div>
+      <div id="content"></div>
+      <div id="end"></div>
       <hr />
     </main>
+
     <footer>
-      <span>Copyright (c) 2026, Anonymous</span>
+      <span>&copy; 2026, Adversus Haereses Mariologicas</span>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
     <script>
+      const index_md = "index.md";
+
       function sanitizeString(str){
         str = str.replace(/[^0-9A-Za-z\._-]/gim,"");
         return str.trim();
       }
 
+      function replaceHref() {
+          var elems = document.getElementsByTagName('a');
+          for(let i =0; i < elems.length; i++) { 
+            var elem = elems[i];
+            var href_attr = elem.getAttribute('href');
+	    if(href_attr.substring(0, 4) == '?md=') {
+              var file_md = href_attr.substring(4);
+              elem.setAttribute('href', 'javascript:void(0)');
+	      elem.setAttribute('onclick', 'setTextAndState("' + file_md + '", "' + file_md + '")');
+	    }
+          }
+      }
+
+      function toggle(name) {
+        var x = document.getElementById(name);
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        } else {
+          x.style.display = "none";
+        }
+	return false;
+      }
+
+      function setContentEnd(md) {
+        if(md != index_md) {
+	  var host = window.location.protocol + "//" + window.location.host;
+          document.getElementById("end").innerHTML = `
+            <p style='text-align:center'>
+	      <a href='javascript:void(0)' onclick='toggle("url-toggle")'>Permalink</a> -
+              <a href='javascript:void(0)' onclick='returnToIndex()'>Inicio</a> -
+	      <a href='javascript:void(0)' onclick='window.scrollTo(0,0)'>Arriba &uarr;</a>
+            </p>
+	    <p id='url-toggle' style='text-align: center; display: none'><i>
+	       ` + host + `/?md=` + md + `</i></p>`;
+	} else {
+          document.getElementById("end").innerHTML = '';
+	}
+      }
+
+      function setTextAndState(md, state_name) {
+        window.history.pushState(state_name, '', '/?md=' + md);
+        setText(md);
+      }
+
+      function returnToIndex() {
+        window.history.pushState('Inicio', '', '/');
+        setText(index_md);
+      }
+      
       function setText(md){
+	  var md_sanitized = sanitizeString(md);
           var request = new XMLHttpRequest();
-          var url = "docs/md/" + sanitizeString(md);
+          var url = "docs/md/" + md_sanitized;
 
           request.open('GET', url, true);
           request.send(false)
@@ -58,22 +119,27 @@
                       var md_text = request.responseText;
                       document.getElementById('content').innerHTML =
                           marked.parse(md_text);
+
+                      replaceHref();
+		      setContentEnd(md_sanitized);
                   }
                 }
 
                 if (request.status === 404) {
                   document.getElementById('content').innerHTML =
-                    marked.parse("# Error\nNo se pudo encontrar el documento solicitado");
+                    marked.parse("# Error 404\nPágina no encontrada.");
+		    setContentEnd('404.md');
                 }
               }
           }
       }
+
       var params = new URLSearchParams(document.location.search);
       var md = params.get('md');
-      if(!md) {
-          md = 'default.md';
-      }
+      if(!md) md = index_md;
       setText(md);
+
   </script>
+
   </body>
 </html>
