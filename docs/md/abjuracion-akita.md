@@ -18,6 +18,8 @@ Yo, *\[nombre\]*, abjuro de creer en las falsas mariofanías de la señora de Ak
 
 8. Octavo, por haber transformado el rostro de la talla de madera, modificando sus rasgos faciales respecto a los originalmente esculpidos, incitando a los fieles a buscar a una persona en particular, insinuando que María debe reencarnarse en una mujer japonesa —posteriormente identificada con una cantautora japonesa, cuya identidad mantendré en anonimato—.
 
+### El argumento principal
+
 Afirmo que la falsedad de las apariciones se puede demostrar infaliblemente:
 
 1. Para ello, es importante señalar la siguiente contradicción:
@@ -93,6 +95,8 @@ Afirmo que la falsedad de las apariciones se puede demostrar infaliblemente:
 4. Por este motivo, concluyo lo siguiente:
 
    1. Por la inferencia lógica *modus tollens*, la falsedad de las apariciones de la «Señora de todos los pueblos» ―demostrada infaliblemente por sus múltiples herejías― corrobora la falsedad de las apariciones de Akita ―independientemente de los supuestos milagros― de tal forma que, el decreto *«constat de supernaturalitate»* es errado.
+
+### Otros argumentos
 
 Asimismo, aporto evidencia adicional para demostrar su falsedad:
 
@@ -198,6 +202,8 @@ Asimismo, aporto evidencia adicional para demostrar su falsedad:
 
 5. Quinto, reconozco que la confusión es un instrumento mucho más útil en manos de Satanás que el engaño, pues es fácil salir del engaño una vez se detecta la mentira, pero es prácticamente imposible salir de la confusión; y reconocer que las apariciones de Akita son de origen sobrenatural, teniendo en cuenta su clara alusión a las apariciones de la «Señora de todos los pueblos», portaría a una gran confusión teológica y doctrinal que comprometería seriamente la santidad de María.
 
+### Negación de los supuestos milagros
+
 Afirmo que los milagros atribuídos a estas apariciones no son tales, o que no pueden ser empleados para verificarlas:
 
 1. Rechazo el origen sobrenatural del milagro de la curación de la sordera de sor Agnes:
@@ -213,6 +219,8 @@ Afirmo que los milagros atribuídos a estas apariciones no son tales, o que no p
    5. Es por estos motivos que esta curación no se puede entender como un milagro, o en caso de serlo, no se podría utilizar para verificar estas apariciones.
 
 2. En caso de que existiera algún otro presunto milagro, sería: por intervención exclusivamente demoníaca, por confusión en la autoría de la intercesión, o por mera misericordia de Dios, que no quiso dejar desamparados a los que los necesitaron.
+
+### Desmintiendo otras teorías
 
 Rechazo toda posible excusa para utilizar una talla de madera inspirada en la imagen de la «Señora de todos los pueblos»:
 
@@ -260,6 +268,8 @@ Asimismo, rechazo cualquier símbolo, señal o mensaje críptico relacionado con
 
 2. Abjuro de creer que la presencia, implícita o explícita, de estos símbolos pueda darle algún tipo de validez a alguna de estas dos apariciones, independientemente de las coincidencias o anomalías estadísticas; de su orígen natural, preternatural o sobrenatural; o de su relación lógica, semántica, morfológica, espacial, temporal, contextual, de implicación, de causalidad, de sincronicidad o yuxtaposición.
 
+### Peticiones
+
 Luego de lo ya dicho, pido lo siguiente:
 
 1. Que estas apariciones y sus mensajes sean condenados, erradicados, sepultados y borrados de la historia de una vez para siempre.
@@ -279,6 +289,8 @@ Luego de lo ya dicho, pido lo siguiente:
 8. Que estas dos apariciones no puedan, bajo ningún concepto, inﬂuir ni ser utilizadas para reprobar el uso de los títulos marianos mencionados en ellos ―de los que el demonio no tiene ningún tipo de autoridad de decisión―, así como tampoco para respaldarlos.
 
 9. Que toda revelación privada posterior que sugiera o insinúe que existe algo de auténtico o de veraz en estas apariciones sea también inmediata e irremediablemente condenada por la Iglesia, sepultada y borrada de la historia.
+
+### Conclusión
 
 Yo, *\[nombre\]*, declaro que esta es mi postura inamovible con respecto a estas falsas mariofanías. Me comprometo a hacer actos de reparación y a combatir férreamente su promoción, reproducción, difusión y cualquier insinuación de su veracidad, sea entera o parcialmente; así como a prevenir a otros de caer en el error y en el engaño, corrigiéndoles e instruyéndoles adecuadamente.
 
