@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <script ></script>
+    <style>
+      header {
+        text-align: center;
+      }
+      main {
+        max-width: 800px;
+        margin: auto;
+      }
+      footer {
+        text-align: center;
+      }
+    </style>
+
+  </head>
+  <body>
+    <header>
+      <h1 style="margin-top: 0px; margin-bottom: 0px;">
+        Adversus Haereses Mariologicas
+      </h1>
+      <span>Contra las herejías antimarianas de nuestros tiempos</span>
+
+    </header>
+    <main>
+      <hr />
+      <div id="content">
+
+      </div>
+      <hr />
+    </main>
+    <footer>
+      <span>Copyright (c) 2026, Anonymous</span>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+    <script>
+      function sanitizeString(str){
+        str = str.replace(/[^0-9A-Za-z\._-]/gim,"");
+        return str.trim();
+      }
+
+      function setText(md){
+          var request = new XMLHttpRequest();
+          var url = "docs/md/" + sanitizeString(md);
+
+          request.open('GET', url, true);
+          request.send(false)
+          request.onreadystatechange = function () {
+              if (request.readyState === 4) {
+                if (request.status === 200) {
+                  var type = request.getResponseHeader(
+                    'Content-Type');
+                  if (type.indexOf("text") !== 1) {
+                      var md_text = request.responseText;
+                      document.getElementById('content').innerHTML =
+                          marked.parse(md_text);
+                  }
+                }
+
+                if (request.status === 404) {
+                  document.getElementById('content').innerHTML =
+                    marked.parse("# Error\nNo se pudo encontrar el documento solicitado");
+                }
+              }
+          }
+      }
+      var params = new URLSearchParams(document.location.search);
+      var md = params.get('md');
+      if(!md) {
+          md = 'default.md';
+      }
+      setText(md);
+  </script>
+  </body>
+</html>

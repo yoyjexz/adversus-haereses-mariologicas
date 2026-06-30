@@ -2,7 +2,7 @@
 
 ## Adversus Haereses Mariologicas
 
-Copyright (c) 2026 Anonymous
+Copyright (c) 2026, Anonymous
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
