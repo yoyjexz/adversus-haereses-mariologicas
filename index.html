@@ -4,50 +4,118 @@
   <head>
 
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
     <title>Adversus Haereses Mariologicas</title>
 
     <style>
-      header {
-        text-align: center;
+
+      body {
+        margin: 0;
+	background-color: #fffff0;
+	font-family: Tahoma, Roboto, sans-serif;
       }
-      main {
+
+      #container {
+	background-color: white;
+        min-height: 100vh;
         max-width: 800px;
-        margin: auto;
+	margin: 0 auto 0 auto;
+	padding: 0 15px 0 15px;
+	display: grid;
+        grid-template-rows: auto 1fr auto;
+	box-shadow: 0px 0px 5px rgb(0 0 0 / 0.2);
+
       }
-      #content {
-	margin-left: 20px;
-        margin-right: 20px;
-      }
-      footer {
+
+      header {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-bottom: 3px groove rgb(0 0 0 / 0.6);
         text-align: center;
       }
+
+      main {
+        padding: 0 30px 30px 30px;
+      }
+
+      @media (max-width: 600px) {
+	main {
+	  padding: 0 0 30px 0;
+	}
+      }
+
+      #loading {
+        margin: auto;
+	display: grid;
+      }
+
+      #content {
+        margin: 0;
+      }
+
+      #end {
+        text-align: center;
+      }
+
+      footer {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-top: 3px ridge rgb(0 0 0 / 0.6);
+        text-align: center;
+      }
+
+      .compact {
+        margin: 0;
+      }
+
     </style>
 
   </head>
 
   <body>
+    <div id="container">
+      <header>
+        <h1 class='compact'>
+          Adversus Haereses Mariologicas
+        </h1>
+        <p class='compact'>
+          Contra las herejías antimarianas de nuestros tiempos
+        </p>
+      </header>
 
-    <header>
-      <h1 style="margin-top: 0px; margin-bottom: 0px;">
-        Adversus Haereses Mariologicas
-      </h1>
-      <span>Contra las herejías antimarianas de nuestros tiempos</span>
-    </header>
+      <main>
+        <img id="loading" src="assets/icons/spinner.svg" width="200" height="200" />
 
-    <main>
-      <hr />
-      <div id="content"></div>
-      <div id="end"></div>
-      <hr />
-    </main>
+        <div id="content"></div>
 
-    <footer>
-      <span>&copy; 2026, Adversus Haereses Mariologicas</span>
-    </footer>
+        <div id="end">
+          <p class='compact'>
+            <a href='javascript:void(0)' onclick='toggle("url-toggle")'>Permalink</a> -
+            <a href='javascript:void(0)' onclick='returnToIndex()'>Inicio</a> -
+            <a href='javascript:void(0)' onclick='window.scrollTo(0,0)'>Arriba &uarr;</a>
+          </p>
+          <p class='compact' id='url-toggle' style='display: none'></p>
+        </div>
+      </main>
+
+      <footer>
+        <p class='compact'>
+          &copy; 2026 Adversus Haereses Mariologicas
+        </p>
+        <p class='compact'>
+          <a href='https://github.com/yoyjexz/adversus-haereses-mariologicas'
+              target="_blank" rel="noopener noreferrer">Source</a> -
+          <a href='javascript:void(0)' 
+              onclick='setTextAndState("LICENSE.md", "LICENSE.md")'>License</a> -
+          <a href='mailto:wshikatsu@outlook.com'
+              target="_blank" rel="noopener noreferrer">Contact</a>
+        </p>
+      </footer>
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
     <script>
-      const index_md = "index.md";
+      const INDEX_MD = "index.md";
 
       function sanitizeString(str){
         str = str.replace(/[^0-9A-Za-z\._-]/gim,"");
@@ -59,12 +127,21 @@
           for(let i =0; i < elems.length; i++) { 
             var elem = elems[i];
             var href_attr = elem.getAttribute('href');
-	    if(href_attr.substring(0, 4) == '?md=') {
+            if(href_attr.substring(0, 4) == '?md=') {
               var file_md = href_attr.substring(4);
               elem.setAttribute('href', 'javascript:void(0)');
-	      elem.setAttribute('onclick', 'setTextAndState("' + file_md + '", "' + file_md + '")');
-	    }
+              elem.setAttribute('onclick', 'setTextAndState("' + file_md + '", "' + file_md + '")');
+            }
           }
+      }
+
+      function setVisibility(name, set) {
+        var x = document.getElementById(name);
+        if(set) {
+          x.style.display = "block";
+        } else {
+          x.style.display = "none";
+        }
       }
 
       function toggle(name) {
@@ -74,69 +151,75 @@
         } else {
           x.style.display = "none";
         }
-	return false;
       }
 
       function setContentEnd(md) {
-        if(md != index_md) {
-	  var host = window.location.protocol + "//" + window.location.host;
-          document.getElementById("end").innerHTML = `
-            <p style='text-align:center'>
-	      <a href='javascript:void(0)' onclick='toggle("url-toggle")'>Permalink</a> -
-              <a href='javascript:void(0)' onclick='returnToIndex()'>Inicio</a> -
-	      <a href='javascript:void(0)' onclick='window.scrollTo(0,0)'>Arriba &uarr;</a>
-            </p>
-	    <p id='url-toggle' style='text-align: center; display: none'><i>
-	       ` + host + `/?md=` + md + `</i></p>`;
-	} else {
-          document.getElementById("end").innerHTML = '';
-	}
+        if(md != INDEX_MD) {
+          var host = window.location.protocol + "//" + window.location.host;
+          document.getElementById("url-toggle").innerHTML = 
+            '<i>' + host + '/?md=' + md + '</i>';
+          setVisibility("end", true);
+        }
       }
 
       function setTextAndState(md, state_name) {
-        window.history.pushState(state_name, '', '/?md=' + md);
+        window.history.replaceState(state_name, '', '/?md=' + md);
         setText(md);
       }
 
       function returnToIndex() {
-        window.history.pushState('Inicio', '', '/');
-        setText(index_md);
+        window.history.replaceState('Inicio', '', '/');
+        setText(INDEX_MD);
       }
       
       function setText(md){
-	  var md_sanitized = sanitizeString(md);
+	  // Change view of main to loading
+          window.scrollTo(0,0);
+          document.getElementById('content').innerHTML = "";
+          setVisibility('end', false);
+          setVisibility('loading', true);
+
+	  // Sanitize and generate url
+          var md_sanitized = sanitizeString(md);
           var request = new XMLHttpRequest();
           var url = "docs/md/" + md_sanitized;
 
+	  // Request
           request.open('GET', url, true);
           request.send(false)
           request.onreadystatechange = function () {
               if (request.readyState === 4) {
+
+		// Correct
                 if (request.status === 200) {
-                  var type = request.getResponseHeader(
-                    'Content-Type');
+                  var type = request.getResponseHeader('Content-Type');
                   if (type.indexOf("text") !== 1) {
+                      setVisibility('loading', false);
+
                       var md_text = request.responseText;
                       document.getElementById('content').innerHTML =
                           marked.parse(md_text);
 
                       replaceHref();
-		      setContentEnd(md_sanitized);
+                      setContentEnd(md_sanitized);
                   }
                 }
 
+		// Not found
                 if (request.status === 404) {
+                  setVisibility('loading', false);
                   document.getElementById('content').innerHTML =
                     marked.parse("# Error 404\nPágina no encontrada.");
-		    setContentEnd('404.md');
+                    setContentEnd('404.md');
                 }
               }
+
           }
       }
 
       var params = new URLSearchParams(document.location.search);
       var md = params.get('md');
-      if(!md) md = index_md;
+      if(!md) md = INDEX_MD;
       setText(md);
 
   </script>
