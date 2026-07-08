@@ -37,6 +37,8 @@ Afirmo que la falsedad de las apariciones se puede demostrar infaliblemente:
       4. Esta talla de madera no es un elemento pasivo dentro de las apariciones, sino activo, pues de él brotan las lágrimas, la sangre y las sudoraciones; así como otras impresiones sensoriales captadas por la vidente Sor Agnes, como los destellos de luz y la voz femenina que emergían de la estatua.
 
       Por lo tanto, cualquier intento de la Virgen por utilizar esta talla de madera para aparecerse es una afirmación implícita de la autenticidad de las apariciones de la «Señora de todos los pueblos».
+         
+      ![Definición de las proposiciones](/img/abjuracion-akita/definition.png "Definición")
 
    2. La tabla lógica de la relación de implicación admite las siguientes tres posibilidades:
 
@@ -52,6 +54,8 @@ Afirmo que la falsedad de las apariciones se puede demostrar infaliblemente:
 
       Y, a pesar de todo, este es el caso actualmente declarado por la Iglesia, lo cual porta irremediablemente a una contradicción.
 
+      ![Implicación](/img/abjuracion-akita/logic-table.png "Implicación")
+
    3. De esta forma tenemos tres posibles escenarios:
 
       1. O bien, el decreto *«constat de non supernaturalitate»* de las apariciones de la «Señora de todos los pueblos» es errado.
@@ -59,6 +63,7 @@ Afirmo que la falsedad de las apariciones se puede demostrar infaliblemente:
       2. O bien, el decreto *«constat de supernaturalitate»* de las apariciones de Akita es errado.
 
       3. O bien, ambos decretos son errados.
+    
 
 2. Para resolver esta contradicción y encontrar la declaración errada, es necesario notar lo siguiente:
 
@@ -84,7 +89,12 @@ Afirmo que la falsedad de las apariciones se puede demostrar infaliblemente:
 
       1. La veracidad de las apariciones de Akita corrobora la veracidad de las apariciones de la «Señora de todos los pueblos» (*modus ponens*).
 
+        
+         ![Modus Ponens](/img/abjuracion-akita/modus-ponens.png "Modus Ponens")
+
       2. La falsedad de las apariciones de la «Señora de todos los pueblos» corrobora la falsedad de las apariciones de Akita (*modus tollens*).
+
+         ![Modus Tollens](/img/abjuracion-akita/modus-tollens.png "Modus Tollens")
 
    3. Por lo tanto:
 
@@ -136,7 +146,7 @@ Primero, que los mensajes de Akita son una clara copia e imitación de la denomi
 
    3. La curia de Coimbra emitió un comunicado desmintiendo al sacerdote y afirmando que las palabras publicadas eran extremadamente sensacionalistas y no reflejaban lo conversado con la vidente. Asimismo, adjuntaron las palabras de sor Lucia, que desmintió al padre Fuentes:
 
-      > El padre Fuentes me habló en su calidad de postulador de las causas de beatificación de los siervos de Dios, Jacinta y Francisco Marto. Hablamos únicamente de las cosas relacionadas con este tema. Por lo tanto, cualquier otra cosa que no se refiere a ello no es ni exacta ni verdadera… Yo no sé nada acerca de estos castigos, los cuales son falsamente atribuidos a mí.
+      > *«El padre Fuentes me habló en su calidad de postulador de las causas de beatificación de los siervos de Dios, Jacinta y Francisco Marto. Hablamos únicamente de las cosas relacionadas con este tema. Por lo tanto, cualquier otra cosa que no se refiere a ello no es ni exacta ni verdadera… Yo no sé nada acerca de estos castigos, los cuales son falsamente atribuidos a mí.»*
 
       Fuente: [So-Called Prophecies Are Denied By Fatima Survivor — The Catholic Transcript 16 July 1959](https://www.thecatholicnewsarchive.org/?a=d&d=CTR19590716-01.2.57)
 
@@ -149,7 +159,7 @@ Primero, que los mensajes de Akita son una clara copia e imitación de la denomi
    2. El resultado de esta conspiración fue la redacción de un falso secreto sensacionalista y extremadamente apocalíptico, entregado luego en un segundo sobre lacrado, hecho pasar por una continuación del verdadero tercer secreto de Fátima.
 
    3. La reacción de Juan XXIII y su negativa a hacerlo público en 1960 se confirma con sus palabras en el discurso de apertura del Concilio Vaticano II:
-      > Nos parece justo disentir de tales profetas de calamidades, avezados a anunciar siempre infaustos acontecimientos, como si el fin de los tiempos estuviese inminente.
+      > *«Nos parece justo disentir de tales profetas de calamidades, avezados a anunciar siempre infaustos acontecimientos, como si el fin de los tiempos estuviese inminente.»*
 
    4. Múltiples testimonios de personas que tuvieron acceso al tercer secreto de Fátima aseguran que este consiste en la Gran Apostasía dentro de la Iglesia. La misma vidente, sor Lucia, confirmó que el mensaje debía de hacerse público en el año 1960, coincidiendo con un acontecimiento específico para hacerlo «más claro», por lo que se esperaba que su contenido hiciera referencia al Concilio Vaticano II como el germen de esta gran apostasía.
 
@@ -299,7 +309,7 @@ Santa María, destructora de todas las herejías, ruega por nosotros. Que por lo
 
 Amén.
 
-[^1]: En este artículo no se aborda el tema de la falsedad de esta versión oficial del año 2000. Al lector le bastará con saber que, muy probablemente, existen «tres» secretos, dos de ellos falsos y sólo uno verdadero (el de 25 líneas).
+[^1]: En este artículo no se aborda la cuestión relacionada con la falsedad de esta versión oficial publicada en el año 2000. Al lector le bastará con saber que, muy probablemente, existen «tres» secretos, dos de ellos falsos y sólo uno verdadero (el de 25 líneas).
 [^2]: Más allá de la falsa reconstrucción histórica del ~~cardenal~~ Víctor Manuel Fernández ―actual Prefecto del «Dicasterio para la Doctrina de la Fe»―, afirmando la existencia de un presunto decreto *«constat de non supernaturalitate»* aprobado por Pablo VI en 1974 (del cual, ni siquiera la diócesis de Haarlem-Ámsterdam tenía conocimiento, según ellos mismos testifican), no se puede negar que el alcance del decreto *«non constat»* de 1956 prohibe explícitamente la devoción pública de la imagen y, consecuentemente, su entronización en iglesias.
 [^3]: Para más información, véase [«Abjuración de la Señora de todos los pueblos»](?md=abjuracion-amsterdam.md).
 [^4]: Presuponiendo que aún exista dicha autoridad en la Sede de Roma y que no se haya perdido toda jurisdicción por flagrante pecado de herejía o apostasía.

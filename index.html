@@ -53,6 +53,26 @@
         margin: 0;
       }
 
+      #content li > ol > li {
+        list-style: lower-roman;
+      }
+
+      #content li > ol > li > ol > li {
+        list-style: lower-latin;
+      }
+
+      #content img {
+        display: flex;
+	margin: auto;
+      }
+
+      blockquote {
+        color: gray;
+        margin-left: 0;
+        padding-left: 16px;
+        border-left: 4px solid darkgray;
+      }
+
       #end {
         text-align: center;
       }
@@ -68,6 +88,31 @@
         margin: 0;
       }
 
+      [data-footnote-ref]::before {
+        content: '[';
+      }
+      
+      [data-footnote-ref]::after {
+        content: ']';
+      }
+
+      .footnotes {
+        font-size: 12px; 
+      }
+
+      .footnotes ol {
+        padding-left: 20px;
+      }
+
+      a {
+        color: #1E7EC8;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+        
     </style>
 
   </head>
@@ -114,6 +159,7 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked-footnote/dist/index.umd.min.js"></script>
     <script>
       const INDEX_MD = "index.md";
 
@@ -198,7 +244,9 @@
 
                       var md_text = request.responseText;
                       document.getElementById('content').innerHTML =
-                          marked.parse(md_text);
+                          new marked.Marked()
+                              .use(markedFootnote({description:'', footnoteDivider:true}))
+                              .parse(md_text)
 
                       replaceHref();
                       setContentEnd(md_sanitized);
