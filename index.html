@@ -1,277 +1,64 @@
 <!DOCTYPE html>
 <html lang="es">
 
-  <head>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Adversus Haereses Mariologicas</title>
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Adversus Haereses Mariologicas</title>
+  <link rel='stylesheet' href='assets/css/style.css'>
 
-    <style>
+  <script type='text/javascript' src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+  <script type='text/javascript' src="https://cdn.jsdelivr.net/npm/marked-footnote/dist/index.umd.min.js"></script>
+  <script type='text/javascript' src='assets/js/script.js'></script>
 
-      body {
-        margin: 0;
-	background-color: #fffff0;
-	font-family: Tahoma, Roboto, sans-serif;
-      }
+</head>
 
-      #container {
-	background-color: white;
-        min-height: 100vh;
-        max-width: 800px;
-	margin: 0 auto 0 auto;
-	padding: 0 15px 0 15px;
-	display: grid;
-        grid-template-rows: auto 1fr auto;
-	box-shadow: 0px 0px 5px rgb(0 0 0 / 0.2);
-
-      }
-
-      header {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	border-bottom: 3px groove rgb(0 0 0 / 0.6);
-        text-align: center;
-      }
-
-      main {
-        padding: 0 30px 30px 30px;
-      }
-
-      @media (max-width: 600px) {
-	main {
-	  padding: 0 0 30px 0;
-	}
-      }
-
-      #loading {
-        margin: auto;
-	display: grid;
-      }
-
-      #content {
-        margin: 0;
-      }
-
-      #content li > ol > li {
-        list-style: lower-roman;
-      }
-
-      #content li > ol > li > ol > li {
-        list-style: lower-latin;
-      }
-
-      #content img {
-        display: flex;
-	margin: auto;
-	max-width: 100%;
-      }
-
-      blockquote {
-        color: gray;
-        margin-left: 0;
-        padding-left: 16px;
-        border-left: 4px solid darkgray;
-      }
-
-      #end {
-        text-align: center;
-      }
-
-      footer {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	border-top: 3px ridge rgb(0 0 0 / 0.6);
-        text-align: center;
-      }
-
-      .compact {
-        margin: 0;
-      }
-
-      [data-footnote-ref]::before {
-        content: '[';
-      }
-      
-      [data-footnote-ref]::after {
-        content: ']';
-      }
-
-      .footnotes {
-        font-size: 12px; 
-      }
-
-      .footnotes ol {
-        padding-left: 20px;
-      }
-
-      a {
-        color: #1E7EC8;
-        text-decoration: none;
-      }
-
-      a:hover {
-        text-decoration: underline;
-      }
-        
-    </style>
-
-  </head>
-
-  <body>
-    <div id="container">
-      <header>
-        <h1 class='compact'>
-          Adversus Haereses Mariologicas
-        </h1>
-        <p class='compact'>
-          Contra las herejías antimarianas de nuestros tiempos
-        </p>
-      </header>
-
-      <main>
-        <img id="loading" src="assets/icons/spinner.svg" width="200" height="200" />
-
-        <div id="content"></div>
-
-        <div id="end">
+<body>
+  <div id="container">
+    <header>
+      <div class='banner'>
+        <a class='banner-ref' href='javascript:void(0)' onclick='returnToIndex()'>
+          <h1 class='compact'>
+            Adversus Haereses Mariologicas
+          </h1>
           <p class='compact'>
-            <a href='javascript:void(0)' onclick='toggle("url-toggle")'>Permalink</a> -
-            <a href='javascript:void(0)' onclick='returnToIndex()'>Inicio</a> -
-            <a href='javascript:void(0)' onclick='window.scrollTo(0,0)'>Arriba &uarr;</a>
+            Contra las herejías antimarianas de nuestros tiempos
           </p>
-          <p class='compact' id='url-toggle' style='display: none'></p>
-        </div>
-      </main>
+        </a>
+      </div>
+    </header>
 
-      <footer>
+    <main>
+      <img id="loading" src="assets/icons/spinner.svg" width="200" height="200" />
+
+      <div id="content"></div>
+
+      <div id="end">
         <p class='compact'>
-          &copy; 2026 Adversus Haereses Mariologicas
+          <a href='javascript:void(0)' onclick='toggle("url-toggle")'>Permalink</a> -
+          <a href='javascript:void(0)' onclick='returnToIndex()'>Inicio</a> -
+          <a href='javascript:void(0)' onclick='window.scrollTo(0,0)'>Arriba &uarr;</a>
         </p>
-        <p class='compact'>
-          <a href='https://github.com/yoyjexz/adversus-haereses-mariologicas'
-              target="_blank" rel="noopener noreferrer">Source</a> -
-          <a href='javascript:void(0)' 
-              onclick='setTextAndState("LICENSE.md", "LICENSE.md")'>License</a> -
-          <a href='mailto:wshikatsu@outlook.com'
-              target="_blank" rel="noopener noreferrer">Contact</a>
-        </p>
-      </footer>
-    </div>
+        <p class='compact' id='url-toggle' style='display: none'></p>
+      </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/marked-footnote/dist/index.umd.min.js"></script>
-    <script>
-      const INDEX_MD = "index.md";
+    </main>
 
-      function sanitizeString(str){
-        str = str.replace(/[^0-9A-Za-z\._-]/gim,"");
-        return str.trim();
-      }
+    <footer>
+      <p class='compact'>
+        &copy; 2026 Adversus Haereses Mariologicas
+      </p>
+      <p class='compact'>
+        <a href='https://github.com/yoyjexz/adversus-haereses-mariologicas'
+            target="_blank" rel="noopener noreferrer">Source</a> -
+        <a href='javascript:void(0)' 
+            onclick='setTextAndState("LICENSE.md", "LICENSE.md")'>License</a> -
+        <a href='mailto:wshikatsu@outlook.com'
+            target="_blank" rel="noopener noreferrer">Contact</a>
+      </p>
+    </footer>
+  </div>
+</body>
 
-      function replaceHref() {
-          var elems = document.getElementsByTagName('a');
-          for(let i =0; i < elems.length; i++) { 
-            var elem = elems[i];
-            var href_attr = elem.getAttribute('href');
-            if(href_attr.substring(0, 4) == '?md=') {
-              var file_md = href_attr.substring(4);
-              elem.setAttribute('href', 'javascript:void(0)');
-              elem.setAttribute('onclick', 'setTextAndState("' + file_md + '", "' + file_md + '")');
-            }
-          }
-      }
-
-      function setVisibility(name, set) {
-        var x = document.getElementById(name);
-        if(set) {
-          x.style.display = "block";
-        } else {
-          x.style.display = "none";
-        }
-      }
-
-      function toggle(name) {
-        var x = document.getElementById(name);
-        if (x.style.display === "none") {
-          x.style.display = "block";
-        } else {
-          x.style.display = "none";
-        }
-      }
-
-      function setContentEnd(md) {
-        if(md != INDEX_MD) {
-          var host = window.location.protocol + "//" + window.location.host;
-          document.getElementById("url-toggle").innerHTML = 
-            '<i>' + host + '/?md=' + md + '</i>';
-          setVisibility("end", true);
-        }
-      }
-
-      function setTextAndState(md, state_name) {
-        window.history.replaceState(state_name, '', '/?md=' + md);
-        setText(md);
-      }
-
-      function returnToIndex() {
-        window.history.replaceState('Inicio', '', '/');
-        setText(INDEX_MD);
-      }
-      
-      function setText(md){
-	  // Change view of main to loading
-          window.scrollTo(0,0);
-          document.getElementById('content').innerHTML = "";
-          setVisibility('end', false);
-          setVisibility('loading', true);
-
-	  // Sanitize and generate url
-          var md_sanitized = sanitizeString(md);
-          var request = new XMLHttpRequest();
-          var url = "docs/md/" + md_sanitized;
-
-	  // Request
-          request.open('GET', url, true);
-          request.send(false)
-          request.onreadystatechange = function () {
-              if (request.readyState === 4) {
-
-		// Correct
-                if (request.status === 200) {
-                  var type = request.getResponseHeader('Content-Type');
-                  if (type.indexOf("text") !== 1) {
-                      setVisibility('loading', false);
-
-                      var md_text = request.responseText;
-                      document.getElementById('content').innerHTML =
-                          new marked.Marked()
-                              .use(markedFootnote({description:'', footnoteDivider:true}))
-                              .parse(md_text)
-
-                      replaceHref();
-                      setContentEnd(md_sanitized);
-                  }
-                }
-
-		// Not found
-                if (request.status === 404) {
-                  setVisibility('loading', false);
-                  document.getElementById('content').innerHTML =
-                    marked.parse("# Error 404\nPágina no encontrada.");
-                    setContentEnd('404.md');
-                }
-              }
-
-          }
-      }
-
-      var params = new URLSearchParams(document.location.search);
-      var md = params.get('md');
-      if(!md) md = INDEX_MD;
-      setText(md);
-
-  </script>
-
-  </body>
 </html>
