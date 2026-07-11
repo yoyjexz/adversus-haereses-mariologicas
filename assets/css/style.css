@@ -8,7 +8,7 @@ body {
   background-color: white;
   min-height: 100vh;
   max-width: 800px;
-  margin: 0 auto 0 auto;
+  margin: 0px auto 0px auto;
   padding: 0;
   display: grid;
   grid-template-rows: auto 1fr auto;
@@ -25,18 +25,17 @@ header {
 .banner {
   font-size: 17px;
   background: #62748E;
-  /*
-  background: linear-gradient(
-      #90A1B9 0%,
-      #62748E 100%
-    );
-    */
   padding: 10px;
+}
+
+@font-face {
+  font-family: 'Gelasio';
+  src: url('/assets/fonts/Gelasio-VariableFont_wght.ttf') format('truetype');
 }
 
 .banner-ref {
   color: white;
-  font-family: 'Georgia', 'Times New Roman', serif;
+  font-family: 'Gelasio', 'Georgia', serif;
   text-decoration: none;
 }
 
@@ -98,7 +97,8 @@ footer {
 }
 
 .compact {
-  margin: 0;
+  margin: 3px 0;
+  line-height: 1.0;
 }
 
 [data-footnote-ref]::before {
