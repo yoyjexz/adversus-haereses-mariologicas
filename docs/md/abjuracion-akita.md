@@ -88,7 +88,6 @@ Afirmo que la falsedad de las apariciones se puede demostrar infaliblemente:
    2. De la relación de implicación entre las dos apariciones se pueden deducir las siguientes dos inferencias lógicas:
 
       1. La veracidad de las apariciones de Akita corrobora la veracidad de las apariciones de la «Señora de todos los pueblos» (*modus ponens*).
-
         
          ![Modus Ponens](/img/abjuracion-akita/modus-ponens.png "Modus Ponens")
 
@@ -122,21 +121,23 @@ Primero, que los mensajes de Akita son una clara copia e imitación de la denomi
 
    2. Asimismo, por la inferencia *modus tollens*, la demostración de la falsedad de esta «versión diplomática» corroboraría la falsedad de las apariciones de Akita.
 
-2. Esta versión fue publicada el 15 de octubre de 1963 por la revista *Neues Europa*, quienes afirmaron que fue presuntamente elaborada por Juan XXIII y enviada a los mandatarios de los EEUU y de la URSS para mediar en el conflicto de la «Crisis de los misiles de Cuba».
+2. Esta versión fue publicada el 15 de octubre de 1963 por la revista *Neues Europa*[^1], quienes afirmaron que fue presuntamente elaborada por Juan XXIII y enviada a los mandatarios de los EEUU y de la URSS para mediar en el conflicto de la «Crisis de los misiles de Cuba».
 
-   1. Juan Pablo II lo corroboró posteriormente en Fulda en el año 1980 durante una rueda de prensa, y afirmó: «Por su contenido impresionante, y para no estimular al poder mundial del comunismo a llevar al extremo ciertas injerencias, mis antecesores prefirieron darle un tratamiento diplomático al secreto».
+   1. Juan Pablo II lo corroboró posteriormente en Fulda en el año 1980 durante una rueda de prensa, y afirmó:
+   
+      > *«Por su contenido impresionante, y para no estimular al poder mundial del comunismo a llevar al extremo ciertas injerencias, mis antecesores prefirieron darle un tratamiento diplomático al secreto.»*
 
-   2. El embajador de Filipinas, Howard Dee, dijo en una entrevista en el año 1998 que «el obispo Ito estaba seguro de que Akita era una extensión de Fátima», y que ​​«el cardenal Ratzinger le confirmó personalmente que estos dos mensajes, el de Fátima y el de Akita, son esencialmente el mismo».
+   2. El embajador de Filipinas, Howard Dee, dijo en una entrevista en el año 1998 que «el obispo Ito estaba seguro de que Akita era una extensión de Fátima», y que «el cardenal Ratzinger le confirmó personalmente que estos dos mensajes, el de Fátima y el de Akita, son esencialmente el mismo».
 
-3. No obstante, el contenido del secreto oficialmente publicado por Roma en el año 2000 difiere significativamente del contenido del mensaje de Akita, lo cual sólo sirvió para alimentar el rumor de que la Santa Sede ocultó deliberadamente parte del contenido del tercer secreto[^1].
+3. No obstante, el contenido del secreto oficialmente publicado por Roma en el año 2000 difiere significativamente del contenido del mensaje de Akita, lo cual sólo sirvió para alimentar el rumor de que la Santa Sede ocultó deliberadamente parte del contenido del tercer secreto[^2].
 
-   1. En 1952, el Padre Joseph Schweigl fue enviado por Pío XII a interrogar a Sor Lucía en su monasterio de Coimbra sobre el contenido del tercer secreto. Sor Lucía afirmó que el secreto constaba de «dos partes»: la primera, conteniendo la descripción de la visión, presuntamente publicada en el año 2000; y la segunda, conteniendo la explicación de la Virgen, aún sin publicar. No obstante, en ningún momento confirmó que las dos partes hayan sido escritas por separado ni enviadas en dos sobres lacrados.
+   1. En 1952, el Padre Joseph Schweigl fue enviado por Pío XII a interrogar a Sor Lucía en su monasterio de Coimbra sobre el contenido del tercer secreto. Sor Lucía le confirmó que el secreto constaba de «dos partes»: la primera, conteniendo la descripción de la visión (presuntamente publicada en el año 2000); y la segunda, conteniendo la explicación de la Virgen (aún sin publicar), la cual, afirmó, sería una continuación de las palabras: «en Portugal se conservará siempre el dogma de la Fe». No obstante, en ningún momento confirmó que las dos partes hayan sido escritas por separado ni enviadas en dos sobres lacrados.
 
    2. En 1957, el obispo auxiliar de Leiría-Fátima, João Pereira Venâncio, que tuvo el sobre con el tercer secreto, afirmó que lo vio a contraluz y que estaba escrito en una sola página. Midió las dimensiones del papel, el tamaño de sus márgenes, y estimó que tenía unas 25 líneas de texto. Luego, el cardenal Ottaviani, quien leyó el secreto, confirmó esta descripción.
 
    3. No obstante, el secreto oficialmente publicado consta de cuatro páginas, con una extensión de 62 líneas de texto, lo cual no encaja con la descripción de sus dimensiones. Esto se podría explicar por la posibilidad de la existencia de un segundo sobre, no advertido por la vidente ni corroborado por el testimonio de ninguna persona encargada de hacer llegar la carta a Roma.
 
-   5. Sin embargo, la versión oficial ―conteniendo exclusivamente la descripción de la visión― contiene 297 palabras, mientras que el «extracto» publicado en *Neues Europa* ―con la explicación de la Virgen sobre la visión―, contiene 797 palabras en inglés. Es imposible que Sor Lucía pueda haber escrito más de 800 palabras en una pequeña hoja de papel cuando le tomó cuatro páginas escribir menos de la mitad de lo contenido en la visión.
+   5. Sin embargo, la versión oficial ―conteniendo exclusivamente la descripción de la visión― contiene 297 palabras, mientras que el «extracto» publicado en *Neues Europa* ―con la explicación de la Virgen sobre la visión―, contiene 797 palabras en inglés. Es imposible que Sor Lucía pueda haber escrito más de 800 palabras en una pequeña hoja de papel cuando le tomó cuatro páginas escribir menos de la mitad de lo contenido en la visión[^1].
 
 4. La prueba definitiva de su falsedad la podemos encontrar en una visita realizada por el padre Agustín Fuentes a sor Lucía en el convento de Coimbra en el año 1957:
 
@@ -146,11 +147,17 @@ Primero, que los mensajes de Akita son una clara copia e imitación de la denomi
 
    3. La curia de Coimbra emitió un comunicado desmintiendo al sacerdote y afirmando que las palabras publicadas eran extremadamente sensacionalistas y no reflejaban lo conversado con la vidente. Asimismo, adjuntaron las palabras de sor Lucia, que desmintió al padre Fuentes:
 
-      > *«El padre Fuentes me habló en su calidad de postulador de las causas de beatificación de los siervos de Dios, Jacinta y Francisco Marto. Hablamos únicamente de las cosas relacionadas con este tema. Por lo tanto, cualquier otra cosa que no se refiere a ello no es ni exacta ni verdadera… Yo no sé nada acerca de estos castigos, los cuales son falsamente atribuidos a mí.»*
+      > *«El Padre Fuentes habló conmigo por ser el postulador de la causa de beatificación de los siervos de Dios, Jacinta y Francisco Marto; tratamos únicamente de cosas relacionadas con ese asunto, por lo que todo lo demás a lo que él se refiere no es exacto ni verdadero, lo que lamento, pues no comprendo qué bien se puede hacer a las almas con cosas que no tienen por base a Dios, que es la Verdad. <ins>Nada sé, ni cosa alguna, por tanto, podía decir sobre tales castigos, como falsamente se me atribuye</ins>»*
+      >
+      > Fuente: [So-Called Prophecies Are Denied By Fatima Survivor — The Catholic Transcript 16 July 1959](https://www.thecatholicnewsarchive.org/?a=d&d=CTR19590716-01.2.57)
 
-      Fuente: [So-Called Prophecies Are Denied By Fatima Survivor — The Catholic Transcript 16 July 1959](https://www.thecatholicnewsarchive.org/?a=d&d=CTR19590716-01.2.57)
+      Con estas palabras, sor Lucía niega el carácter catastrofista del tercer secreto de Fátima, y con ello, el contenido de la «versión diplomática»[^3].
 
-      Con estas palabras, sor Lucía niega el carácter catastrofista del tercer secreto de Fátima, y con ello, el contenido de la «versión diplomática».
+   4. Aunque estas palabras tengan por objetivo desmentir las declaraciones del padre Fuentes sobre su entrevista con Lucía, su alcance también niega el contenido apocalíptico del tercer secreto, si se tiene en cuenta el contexto que la Curia de Coímbra establece en su comunicado:
+
+      > *«<ins>Para tranquilidad de tantos</ins> que [...] se alarmaron, quedando despavoridos <ins>con los cataclismos</ins> que (según dice tal documentación), caerán sobre el mundo en 1960, y sobre todo <ins>para ponerse término a tan tendenciosa campaña de “profecías”</ins>, [...] la Curia Diocesana de Coímbra hace públicas estas palabras de la Hermana Lucía...»*
+      >
+      > *«La Curia Diocesana de Coímbra está habilitada para poder declarar que la Hermana Lucía, habiendo dicho hasta entonces todo lo que entendió que debía decir <ins>sobre Fátima</ins>, [...] a nadie autorizó a traer al público sea lo que fuere que le pueda ser atribuido acerca de Fátima.»*
 
 5. Estas declaraciones del padre Fuentes responden a un intento de desacreditar los mensajes de Fátima. A continuación, expongo una posible teoría:
 
@@ -169,7 +176,7 @@ Primero, que los mensajes de Akita son una clara copia e imitación de la denomi
 
 6. Por estos motivos, concluyo que:
 
-   1. Por la inferencia lógica *modus tollens*, la falsedad de la «versión diplomática del tercer secreto de Fátima» ―demostrada por las palabras de Sor Lucía― corrobora la falsedad de las apariciones de Akita.
+   1. Por la inferencia lógica *modus tollens*, la falsedad de la «versión diplomática del tercer secreto de Fátima» ―demostrada por las palabras de Sor Lucía y por sus problemas de extensión― corrobora la falsedad de las apariciones de Akita.
 
 ### 3.2. Análisis del mensaje
 
@@ -195,7 +202,7 @@ Tercero, que la creación de la imagen de la Virgen de Akita y su entronización
 
 4. Esta imagen fue finalmente entronizada en el año 1963 en la capilla del convento de las religiosas, contra la restricción eclesiástica, que prohibía su culto público y la entronización de la imágen en las iglesias.
 
-5. A causa de esta campaña de propaganda masiva, iniciada por la fundación *Stichting*, la Congregación para la Doctrina de la Fe se vio obligada a emitir una notificación en 1974 ―un año después del comienzo de las apariciones de Akita―, ratificando la decisión del obispo de Haarlem de su prohibición, llamando a cesar todo acto de propaganda ante las quejas presentadas por obispos de múltiples diócesis fuera del territorio holandés[^2].
+5. A causa de esta campaña de propaganda masiva, iniciada por la fundación *Stichting*, la Congregación para la Doctrina de la Fe se vio obligada a emitir una notificación en 1974 ―un año después del comienzo de las apariciones de Akita―, ratificando la decisión del obispo de Haarlem de su prohibición, llamando a cesar todo acto de propaganda ante las quejas presentadas por obispos de múltiples diócesis fuera del territorio holandés[^4].
 
 6. A raíz de esto, el obispo de Niigata a cargo de la investigación, John Shojiro Ito, debería haber estado informado de esta notificación y tenía la responsabilidad de ordenar el traslado de la imagen fuera de la capilla ―cosa que no hizo―.
 
@@ -255,7 +262,7 @@ Rechazo toda posible excusa para utilizar una talla de madera inspirada en la im
 
 2. Segundo, rechazo la teoría de la ratificación parcial de los mensajes de Ámsterdam:
 
-   1. Esta creencia podría estar motivada por la teoría del «filtro humano» de la teología mística católica, sugiriendo que la vidente, Ida Peerdeman, pudo alterar subconscientemente el contenido del mensaje de Ámsterdam, introduciendo explicaciones vagas e imprecisas basadas en su limitado conocimiento teológico. Esta posibilidad queda completamente descartada[^3].
+   1. Esta creencia podría estar motivada por la teoría del «filtro humano» de la teología mística católica, sugiriendo que la vidente, Ida Peerdeman, pudo alterar subconscientemente el contenido del mensaje de Ámsterdam, introduciendo explicaciones vagas e imprecisas basadas en su limitado conocimiento teológico. Esta posibilidad queda completamente descartada[^5].
 
    2. Lo repruebo, pues si algo de verdadero hubiese en los mensajes de Ámsterdam, la Virgen no encontraría ningún inconveniente en repetirlo con sus propias palabras en unas nuevas apariciones que no apuntaran de ninguna forma a ellas ―como lo haría si se apareciera usando una talla de madera inspirada en el cuadro de la «Señora de todos los pueblos»―.
 
@@ -293,7 +300,7 @@ Luego de lo ya dicho, pido lo siguiente:
 
 4. Que los obispos y sacerdotes despenalicen, e incluso insten a los ﬁeles a deshacerse de dichas posesiones por el riesgo de infestación demoníaca, de tal forma que nadie se sienta acusado de pecar por deshacerse de objetos devocionales de la Virgen cuando no son tales.
 
-5. Que la autoridad competente[^4] emita un nuevo decreto, siguiendo el conocimiento demonológico de reputados exorcistas: *«constat de preternaturalitate»*; el cual, de manera más grave que *«constat de non supernaturalitate»*, condene fuertemente unas apariciones por la actividad demoníaca demostrada y el peligro que entraña que los ﬁeles, practicando su devoción a la Virgen por medio de esta advocación, puedan sufrir actividad demoníaca, requiriendo irremediablemente la acción de un exorcista.
+5. Que la autoridad competente[^6] emita un nuevo decreto, siguiendo el conocimiento demonológico de reputados exorcistas: *«constat de preternaturalitate»*; el cual, de manera más grave que *«constat de non supernaturalitate»*, condene fuertemente unas apariciones por la actividad demoníaca demostrada y el peligro que entraña que los ﬁeles, practicando su devoción a la Virgen por medio de esta advocación, puedan sufrir actividad demoníaca, requiriendo irremediablemente la acción de un exorcista.
 
 6. Que todos los ﬁeles que hayan practicado su devoción a esta advocación mariana queden liberados de toda inﬂuencia maligna producto de ella.
 
@@ -309,7 +316,9 @@ Santa María, destructora de todas las herejías, ruega por nosotros. Que por lo
 
 Amén.
 
-[^1]: En este artículo no se aborda la cuestión relacionada con la falsedad de esta versión oficial publicada en el año 2000. Al lector le bastará con saber que, muy probablemente, existen «tres» secretos, dos de ellos falsos y sólo uno verdadero (el de 25 líneas).
-[^2]: Más allá de la falsa reconstrucción histórica del ~~cardenal~~ Víctor Manuel Fernández ―actual Prefecto del «Dicasterio para la Doctrina de la Fe»―, afirmando la existencia de un presunto decreto *«constat de non supernaturalitate»* aprobado por Pablo VI en 1974 (del cual, ni siquiera la diócesis de Haarlem-Ámsterdam tenía conocimiento, según ellos mismos testifican), no se puede negar que el alcance del decreto *«non constat»* de 1956 prohibe explícitamente la devoción pública de la imagen y, consecuentemente, su entronización en iglesias.
-[^3]: Para más información, véase [«Abjuración de la Señora de todos los pueblos»](?md=abjuracion-amsterdam.md).
-[^4]: Presuponiendo que aún exista dicha autoridad en la Sede de Roma y que no se haya perdido toda jurisdicción por flagrante pecado de herejía o apostasía.
+[^1]: Para leer el «extracto» publicado por *Neues Europa* y otros motivos que demuestran su falsedad, véase el [siguiente artículo](https://fatima.org/neues-europa-1963/) publicado en [fatima.org](https://fatima.org/).
+[^2]: En este artículo no se aborda la cuestión relacionada con la falsedad de esta versión oficial publicada en el año 2000. Al lector le bastará con saber que, muy probablemente, existen «tres» secretos, dos de ellos falsos y sólo uno verdadero (el de 25 líneas).
+[^3]: Para más información, véase el [siguiente artículo](https://periodicolaesperanza.com/archivos/19688) del periódico digital «La Esperanza».
+[^4]: Más allá de la falsa reconstrucción histórica del ~~cardenal~~ Víctor Manuel Fernández ―actual Prefecto del «Dicasterio para la Doctrina de la Fe»―, afirmando la existencia de un presunto decreto *«constat de non supernaturalitate»* aprobado por Pablo VI en 1974 (del cual, ni siquiera la diócesis de Haarlem-Ámsterdam tenía conocimiento, según ellos mismos testifican), no se puede negar que el alcance del decreto *«non constat»* de 1956 prohibe explícitamente la devoción pública de la imagen y, consecuentemente, su entronización en iglesias.
+[^5]: Para más información, véase [«Abjuración de la Señora de todos los pueblos»](?md=abjuracion-amsterdam.md).
+[^6]: Presuponiendo que aún exista dicha autoridad en la Sede de Roma y que no se haya perdido toda jurisdicción por flagrante pecado de herejía o apostasía.
