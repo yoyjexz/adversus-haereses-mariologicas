@@ -196,7 +196,7 @@ Incluso si Ella pudiese compadecerse de algún hereje, éste no podría exigirle
 
 ## 4. La Virgen aborrece más a los mariólatras que a los herejes protestantes que tanto la menosprecian
 
-
+*La profunda humildad de la Virgen es más favorable al deseo de ser menospreciada antes que al "deseo" de ser adorada. Hipócritas que, creyendo que son movidos por un celo proveniente del Espíritu Santo, se indignan más por las ofensas contra María que por las ofensas contra Jesús. Las consecuencias de amar a María más que a Dios. Pendiente de desarrollo.*
 ## 5. El Santo Rosario fue originalmente concebido como un remedio eficaz contra las herejías
 
 ### 5.1. Sobre presuntos poderes otorgados en Fátima
@@ -205,11 +205,15 @@ Los poderes que la Virgen anunció que habían sido conferidos al Rosario en Fá
 
 ### 5.2. Los santos que recomendaron el rezo del Rosario ya rezaban el Oficio Divino
 
+El Oficio Divino es la oración oficial de la Iglesia, de obligación grave para todo el clero, comunidades monásticas y algunas personas de vida consagrada. Quienes lo rezan, se unen más íntimamente al Cuerpo Místico de Cristo. Es natural que ningún santo —la mayoría de ellos, almas de vida consagrada— hable de la necesidad del rezo del Oficio Divino, pues esta práctica de oración ya se daba por sentada. En este sentido, no se le puede hacer creer a nadie que el rezo del Rosario es una fuente inagotable de gracias si no se reza lo mínimo que se espera de un alma consagrada.
 
+El Rosario es una buena práctica de oración para los recién iniciados en la fe cristiana por su extrema sencillez, pues sólo requiere de saberse tres oraciones de memoria y quince misterios para ser meditados. El Oficio Divino, en cambio, requiere de usar extensos breviarios, de conocer el canto antifonal, los tonos salmódicos y de saber manejarse con el tiempo litúrgico. Sin embargo, como un infante que madura en la fe y que comienza a independizarse de su madre, esta es una práctica de oración que merece ser cultivada para mayor santidad de los fieles.
+
+Aunque no sea obligatorio para los laicos, si se duda entre rezar el Oficio Divino y el Rosario, priorícese el rezo del Oficio Divino. María estaría de acuerdo con esta decisión. La autoridad de la Iglesia siempre va por encima de la autoridad de cualquier espíritu que se atribuya ser María en una supuesta revelación privada para decidir sobre las prácticas de oración más apropiadas para edificar la santidad de los fieles.
 
 ### 5.3. Sobre el Rosario de Juan Pablo II
 
-Es preferible descartar los misterios luminosos del rezo del Santo Rosario, pues Wojtyla fue un hereje público manifiesto antes y durante su «pontificado». Si bien, todos deberíamos poder agregar misterios dignos de ser meditados a cualquier práctica de oración, rezar conforme a las indicaciones de un hereje podría producir infestación demoníaca, y mucho más si se pretende hacer pasar a este nuevo rosario como el «Santo Rosario de la Virgen»: aquel que debería ser un remedio eficaz contra las herejías, y que paradójicamente fue modificado por un hereje sin autoridad. El Rosario consta originalmente de 15 misterios, agrupados en gozosos, dolorosos y gloriosos. Así fue como lo enseñó la Virgen, y este fue el Rosario que nos pidió que fuese rezado en Fátima.
+Es preferible descartar los misterios luminosos del rezo del Santo Rosario, pues Wojtyla fue un hereje público manifiesto antes y durante su «pontificado». Si bien, todos deberíamos poder agregar misterios dignos de ser meditados a cualquier práctica de oración, rezar conforme a las indicaciones de un hereje podría producir infestación demoníaca, y mucho más si se pretende hacer pasar a este nuevo rosario como el «Santo Rosario de la Virgen»; aquel que debería ser un remedio eficaz contra las herejías, y que, paradójicamente, fue modificado por un hereje que carecía de toda autoridad. El Rosario consta originalmente de quince misterios, agrupados en tres categorías: gozosos, dolorosos y gloriosos. Así fue como lo enseñó la Virgen, y este fue el Rosario que nos pidió que fuese rezado en Fátima.
 
 ## 6. Los peligros de una falsa devoción a María
 
@@ -240,7 +244,7 @@ Sin embargo, existe una diferencia importante entre veneración y devoción:
 
 Esta devoción, entonces, profesada para un santo, no debería ser exigida para la salvación de nadie, pues brota de los sentimientos y depende de cada caso particular. Es más, puede llegar a ser incluso contraproducente obligarse a uno mismo a ser devoto de María movido por los consejos de tantos santos que la recomendaron como camino seguro para la salvación.
 
-Muchas veces, no somos nosotros los que escojemos una devoción, sino Dios el que la provee para nosotros. Que la devoción a la Virgen sea un camino seguro para la salvación no implica que Dios quiera que todos lleguen a Jesús por este medio.
+Muchas veces, no somos nosotros los que escogemos una devoción, sino Dios el que la provee para nosotros. Que la devoción a la Virgen sea un camino seguro para la salvación no implica que Dios quiera que todos lleguen a Jesús por este medio.
 
 ### 6.3. El «Tratado de la verdadera devoción» de San Luis Grignón de Montfort ha quedado desactualizado
 
@@ -268,7 +272,7 @@ De la misma forma, sería una deshonra para María ser reconocida antes por sus 
 
 ### 7.2. Las grandes apariciones marianas de estos últimos siglos y su razón de existir
 
-María como líder de la Iglesia Triunfante, la denuncia de la Gran Apostasía y otras «teorías reversionistas» de la Redención (pendiente de desarrollo).
+*María como líder de la Iglesia Triunfante, la denuncia de la Gran Apostasía y otras «teorías reversionistas» de la Redención (pendiente de desarrollo).*
 
 ### 7.3. Cuando la revelación privada busca reemplazar a la Revelación Pública
 
